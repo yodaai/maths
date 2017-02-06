@@ -3,7 +3,7 @@
 int main()
 {
 	
-	
+	//This is the line causing issue in the conflict branch
 	char operator;
     double i,j;
 
